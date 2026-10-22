@@ -281,3 +281,13 @@ O planejamento está concluído, mas o pré-estudo e a implementação ainda nã
 3. Detalhar a Fase 1, dia a dia.
 
 **Ponto de partida:** confirmar em que etapa o projeto está e qual desses próximos passos deve ser realizado primeiro.
+
+## Marca e identidade visual
+
+O nome "Pimpei", o logotipo e a identidade visual do projeto
+não estão abrangidos pela licença MIT do código-fonte.
+
+Todos os direitos sobre esses elementos são reservados aos
+respectivos titulares. A licença do código não concede
+permissão para utilizar o nome ou a identidade visual Pimpei
+para identificar produtos ou serviços de terceiros.
