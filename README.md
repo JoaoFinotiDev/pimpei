@@ -4,9 +4,7 @@
 
 ## Sobre o projeto
 
-O Pimpei é um projeto de estudo e desenvolvimento de um produto real, criado para recuperar a motivação com programação e consolidar conceitos de orientação a objetos (OO) por meio de aplicações práticas.
-
-O projeto está em fase de planejamento. **Ainda não foi iniciado o pré-estudo nem a implementação.**
+O Pimpei é um projeto de estudo e desenvolvimento de um produto real, criado para consolidar conceitos de orientação a objetos (OO) por meio de aplicações práticas.
 
 ## Objetivos de aprendizagem
 
