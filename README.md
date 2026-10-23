@@ -258,28 +258,6 @@ Antes das fases do projeto, está planejado um pré-estudo de cerca de três sem
 
 Em paralelo às fases 1 a 4, serão feitos mini-exercícios de OO em Java, de 15 a 20 minutos por dia, usando o domínio do Pimpei — por exemplo, recriar `CodigoCarta` em Java.
 
-## Como contribuir para o planejamento
-
-Ao orientar o desenvolvimento deste projeto:
-
-- Responder em português do Brasil.
-- Dividir o trabalho em etapas pequenas e verificáveis.
-- Explicar o porquê das decisões e relacioná-las, sempre que possível, à OO em Java.
-- Apontar erros, riscos e inconsistências, inclusive nas decisões já tomadas.
-- Identificar explicitamente o que ainda não foi verificado.
-- Fazer no máximo uma pergunta por vez.
-- Evitar ensinar antecipadamente tudo o que só será necessário em fases futuras.
-
-## Próximos passos
-
-O planejamento está concluído, mas o pré-estudo e a implementação ainda não começaram. As próximas opções são:
-
-1. Criar um plano de pré-estudo dia a dia para três semanas, com um exercício prático por sessão.
-2. Elaborar o esquema SQL e o diagrama de classes.
-3. Detalhar a Fase 1, dia a dia.
-
-**Ponto de partida:** confirmar em que etapa o projeto está e qual desses próximos passos deve ser realizado primeiro.
-
 ## Marca e identidade visual
 
 O nome "Pimpei", o logotipo e a identidade visual do projeto
